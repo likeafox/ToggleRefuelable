@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Toggle Refuelable</name>
+  <author>likeafox</author>
+  <!--<url>http://example.com</url>-->
+  <supportedVersions><li>1.0</li></supportedVersions>
+  <description>Stop a dude from refueling a thing.</description>
+</ModMetaData>
